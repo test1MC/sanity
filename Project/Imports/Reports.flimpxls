@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsExcelImport
+  SaveWorkbookToFolder="false"
+  WorksheetImportType="topic"
+  PersistFirstRowAsHeader="false"
+  LimitRows="false"
+  LimitRowsCount="30"
+  SaveChartsAs="true"
+  SaveChartsAsType="Png"
+  ConvertEquations="true"
+  ExclusionFilters=""
+  CreateMasterTopic="false"
+  IncludeWorksheetTitlesAsHeadings="false"
+  ImportHiddenRowsColumns="false"
+  KeepSourceLinks="true"
+  AutoSync="false"
+  Stylesheet=""
+  PreserveSourceStyles="true"
+  LastImport="2018-03-20T09:53:52.2673015-07:00">
+  <Files>
+    <Url
+      Source="../../../../../Desktop/Reports.csv"
+      AbsoluteSource="file:///C:/Users/dspencer/Desktop/Reports.csv" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Stylesheets/Reports.css"
+      TimeStamp="20-Mar-18 9:53:50 AM" />
+    <Url
+      Source="../../Content/Reports/Reports.htm"
+      TimeStamp="20-Mar-18 9:53:50 AM" />
+    <Url
+      Source="../TOCs/Reports.fltoc"
+      TimeStamp="20-Mar-18 9:53:50 AM" />
+  </GeneratedFiles>
+</MsExcelImport>

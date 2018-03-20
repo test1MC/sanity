@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="true"
+  KeepSourceLinks="true"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  ConvertEquations="true"
+  LastCollectTime="2018-03-20T09:52:27.9034506-07:00"
+  ProjectName="Main Sub_Project49"
+  ProjectFolder="C:\Users\dspencer\Documents\My Projects\Main Sub_Project49\"
+  AutoSync="true"
+  AutoFitTables="false"
+  UseHeaderRows="false"
+  LastImport="2018-03-20T09:52:52.6745595-07:00">
+  <Files>
+    <Url
+      Source="../../../../After further discussion with Adam.docx"
+      AbsoluteSource="file:///C:/Users/dspencer/Documents/After further discussion with Adam.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/After further discussion with Adam/After further discussion with.png"
+      TimeStamp="20-Mar-18 9:52:50 AM" />
+    <Url
+      Source="../../Content/After further discussion with Adam/After further discussion with.htm"
+      TimeStamp="20-Mar-18 9:52:50 AM" />
+    <Url
+      Source="../TOCs/After further discussion with Adam.fltoc"
+      TimeStamp="20-Mar-18 9:52:50 AM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/After further discussion with Adam.css"
+      TimeStamp="20-Mar-18 9:52:50 AM" />
+  </GeneratedFiles>
+  <ParagraphStyles />
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles />
+  <UsedParagraphStyles>
+    <StyleName
+      Name="List Paragraph" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles />
+</MsWordImport>

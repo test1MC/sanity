@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Topic.htm" />
+  <TocEntry
+    Title="After further discussion with Adam (Master)"
+    Link="/Project/TOCs/After further discussion with Adam.fltoc" />
+  <TocEntry
+    Title="Reports"
+    Link="/Project/TOCs/Reports.fltoc" />
+</CatapultToc>

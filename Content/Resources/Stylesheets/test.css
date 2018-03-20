@@ -1,0 +1,80 @@
+/*<meta sourceDocument="C:\Users\dspencer\Desktop\test.docx" />*/
+
+p
+{
+	margin-bottom: 8pt;
+	font-family: Calibri;
+	font-size: 11pt;
+	margin-top: 0pt;
+}
+
+ol
+{
+	margin-bottom: 8pt;
+	font-family: Calibri;
+	font-size: 11pt;
+	margin-top: 0pt;
+}
+
+ul
+{
+	margin-bottom: 8pt;
+	font-family: Calibri;
+	font-size: 11pt;
+	margin-top: 0pt;
+}
+
+li
+{
+	margin-bottom: 8pt;
+	font-family: Calibri;
+	font-size: 11pt;
+	margin-top: 0pt;
+}
+
+td
+{
+	margin-bottom: 8pt;
+	font-family: Calibri;
+	font-size: 11pt;
+	vertical-align: top;
+}
+
+p.p_1
+{
+	font-weight: bold;
+}
+
+p.p_2
+{
+	font-weight: bold;
+	color: #FF0000;
+}
+
+p.p_3
+{
+	text-align: center;
+	font-weight: bold;
+	color: #5B9BD5;
+}
+
+p.p_4
+{
+	font-weight: bold;
+	color: #5B9BD5;
+	text-decoration: underline;
+}
+
+sub.sub_1
+{
+	font-weight: bold;
+	color: #5B9BD5;
+}
+
+p.p_5
+{
+	font-weight: bold;
+	color: #262626;
+	font-size: 16pt;
+}
+

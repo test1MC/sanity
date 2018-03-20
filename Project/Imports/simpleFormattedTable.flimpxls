@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsExcelImport
+  SaveWorkbookToFolder="false"
+  WorksheetImportType="topic"
+  PersistFirstRowAsHeader="false"
+  LimitRows="false"
+  LimitRowsCount="30"
+  SaveChartsAs="true"
+  SaveChartsAsType="Png"
+  ConvertEquations="true"
+  ExclusionFilters=""
+  CreateMasterTopic="false"
+  IncludeWorksheetTitlesAsHeadings="false"
+  ImportHiddenRowsColumns="false"
+  KeepSourceLinks="true"
+  AutoSync="false"
+  Stylesheet=""
+  PreserveSourceStyles="true"
+  LastImport="2018-03-20T11:40:22.7124989-07:00">
+  <Files>
+    <Url
+      Source="../../../../../Desktop/simpleFormattedTable.xlsx"
+      AbsoluteSource="file:///C:/Users/dspencer/Desktop/simpleFormattedTable.xlsx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/TableStyles/Table1.css"
+      TimeStamp="20-Mar-18 11:40:16 AM" />
+    <Url
+      Source="../../Content/simpleFormattedTable/Sheet1.htm"
+      TimeStamp="20-Mar-18 11:40:20 AM" />
+    <Url
+      Source="../TOCs/simpleFormattedTable.fltoc"
+      TimeStamp="20-Mar-18 11:40:20 AM" />
+  </GeneratedFiles>
+</MsExcelImport>
